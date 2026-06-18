@@ -1,0 +1,34 @@
+{
+    "name": "Rahmania Bitha Safitri",
+    "description": "An Electronics Engineering student at Politeknik Negeri Semarang with a strong focus on embedded systems, instrumentation, and industrial automation. Experiencing in designing electronic circuit simulations, programming microcontrollers such as Arduino and ESP32, and integrating IoT-based systems. I am capable of working independently and collaboratively within a team, possessing good communication, analytical, and problem-solving skills to support future technological projects",
+    "profileImage": "images/nanikfoto.jpeg",
+    "email": "rahmaniabithasafitri04@gmail.com",
+    "phone": "+62 (881) 295-6391",
+    "socialMedia": [
+        {
+            "platform": "Instagram",
+            "url": "https://Instagram.com/rahmaniabs"
+        },
+        {
+            "platform": "tiktok",
+            "url": "https://tiktok.com/rahmaniabitha"
+        
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/CV NIA.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+    {"name": "Electronic Circuit Design", "icon": "fas fa-microchip", "level": 80},
+    {"name": "Arduino Programming", "icon": "fas fa-code", "level": 85},
+    {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 85},
+    {"name": "Hardware & PCB Design", "icon": "fas fa-desktop", "level": 80},
+    {"name": "Sensor Integration", "icon": "fas fa-rss", "level": 85},
+    {"name": "Web Programming", "icon": "fab fa-js", "level": 85},
+    {"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
+    {"name": "Problem Solving", "icon": "fas fa-lightbulb", "level": 90},
+    {"name": "English Communication", "icon": "fas fa-comments", "level": 85}
+    ]
+}

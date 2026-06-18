@@ -1,0 +1,59 @@
+[
+    {
+        "title": "Desain Pengembangan Celengan Pintar Berbasis IoT dENGAN esp32 Sensor TCS3266",
+        "year": "2025",
+        "role": "Embedded Engineer",
+        "description": "This project focuses on the design and implementation of an Internet of Things (IoT)-based 'Smart Piggy Bank', integrating an ESP32 microcontroller as the central processing unit and a TCS3266 color sensor to automatically identify currency denominations. Equipped with a wireless communication module, the system transmits savings data in real-time to a monitoring dashboard, creating an efficient and innovative interactive technological solution to simplify financial management and support early-stage financial education.",
+        "image": "images/celengannia.jpeg"
+        
+    },
+    {
+        "title": "Pendeteksi Hujan Dengan Keluaran LED",
+        "year": "2024",
+        "role": "Embedded Engineer",
+        "description": "This project involves the design and development of a microcontroller-based data entry simulation system using the Arduino Uno platform via Wokwi. The system integrates a 4x4 matrix Keypad as the character input interface and a 16x2 LCD utilizing an I2C communication interface to optimize wiring efficiency. The core focus of this development lies in creating character processing algorithms and dynamic memory management within an array library capable of storing up to 10 numerical data strings in real-time. Furthermore, the system is enhanced with control functionalities, including an instant character deletion feature (backspace) using the asterisk key and a data retrieval mechanism to review the entire storage history through dedicated navigation keys",
+        "image": "images/PBETA.Jpeg"
+        
+    },
+	{
+        "title": "Sistem Otomatisasi Pencabut Bulu dan Pemanasan Ayam Terintegrasi GUI MATLAB",
+        "year": "2025",
+        "role": "Embedded and Control System Engineer",
+        "description": "This project focuses on the design and development of an automated monitoring and control system for poultry egg incubators based on the Internet of Things (IoT), utilizing the ESP32 microcontroller as the central processing unit. The system integrates temperature and humidity sensors to ensure optimal environmental conditions within the incubator, maximizing hatching success rates. By implementing the lightweight MQTT communication protocol, all environmental parameters are transmitted in real-time to an interactive digital dashboard, enabling seamless remote monitoring and instant anomaly alerts for the user",
+        "image": "images/kbkproject.jpeg"
+    
+    },
+    {
+        "title": "Sistem Monitoring Lahan Parkir Berbasis IoT Menggunakan Sensor Ultrasonik dan Website Secara Real-Time",
+        "year": "2025",
+        "role": "IoT & Full-Stack Developer",
+        "description": "This project focuses on the design and development of an IoT-based smart parking management and monitoring system that detects parking slot availability in real-time. The system integrates ultrasonic sensors at each slot to measure distance and verify vehicle presence, with data processed by a microcontroller (such as ESP32/NodeMCU) and transmitted to a cloud server. The parking occupancy status is then dynamically visualized on an interactive web interface, allowing drivers to seamlessly check for vacant slots before entering the parking facility",
+        "image": "images/iotproject.jpeg"
+        
+    },
+	{
+        "title": "Rancangan Sistem Simulasi Penetas Telur Ayam Otomatis",
+        "year": "2025",
+        "role": "Instrumentation & Control System Engineer",
+        "description": "This instrumentation lab project focuses on the design and modeling of an automated egg incubator simulation system developed to optimize the micro-environmental conditions inside the incubator. The system integrates electronic instrumentation principles to precisely monitor and control crucial variables such as temperature stability and humidity levels to maximize hatchability rates. The core development of this project emphasizes controller simulation, physical parameter sensor calibration, and feedback control loop mechanisms to achieve a highly stable thermal environment tailored to the biological requirements of poultry egg incubation.",
+        "image": "images/instrumen.jpeg"
+        
+    },
+	{
+        "title": "Sistem Simulasi Kendali Suhu Pemanggang Roti Pizza Berbasis Arduino Uno",
+        "year": "2025",
+        "role": "Control System Engineer",
+        "description": "This research project focuses on the design and simulation of an automated thermal control system for a pizza bread oven, engineered to maintain operational temperature stability within a precise range of 200°C to 250°C. The control architecture utilizes an Arduino Uno microcontroller as the central processing unit to process real-time environmental data acquired from a DHT22 temperature sensor. To effectively regulate the heating element and mitigate the risks of under-baking or charring, the system implements an on-off control strategy using a power MOSFET (such as the IRF540N) as a high-speed electronic switch to dynamically toggle the heater, coupled with an I2C 16x2 LCD interface for real-time visual telemetry of the thermal parameters.",
+        "image": "images/skk.jpeg"
+        
+    }
+	
+       
+    
+	
+        
+    
+	
+        
+	
+]

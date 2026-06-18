@@ -1,0 +1,16 @@
+[
+    {
+        "university": "POLITEKNIK NEGERI SEMARANG",
+		"logo": "images/polines-logo.png",
+        "major": "D3 Electronic Engineering",
+        "year": "2023 - 2026",
+        "description": "A vocational education program focused on the design, operation, maintenance, and development of electronic systems. The curriculum equips students with deep expertise in electronic circuits, control systems, microcontrollers, instrumentation, and industrial automation through both theoretical and practical learning to meet modern industry challenges. For my final project, I successfully developed a PID control system for linear actuators integrated with a web-based IoT platform to support precise, real-time remote monitoring."
+    },
+    {
+        "university": "SMK NEGERI 4 SEMARANG",
+		"logo": "images/smk4-logo.jpg",
+        "major": "Audio Video Engineering",
+        "year": "2020 - 2023",
+        "description": "A specialized program exploring the installation, operation, maintenance, as well as the design and manufacturing of audio-visual technology. Blending theory with hands-on practice, it builds strong competencies in schematic designing and assembling microphone systems, power amplifiers, multimedia editing techniques, and radio and television communication systems aligned with the needs of the modern creative industry. The entire learning process is designed to produce skilled, precise technicians ready to compete in the fields of electronics, audio device manufacturing, and broadcasting."
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "company": "Telkom Akses Indonesia",
+		"logo":"images/telkom-logo.png",
+        "position": "Network Inventory Data Admin",
+        "year": "2022",
+        "description": "Held full responsibility for auditing, validating, and synchronizing the data accuracy of STO (Central Telephone Exchange) devices to minimize network anomalies, which was then integrated into compiling systematic daily performance reports using Microsoft Excel to enhance periodic data monitoring efficiency for management."
+    },
+	{
+        "company": "Xentronic Inovasi Indonesia",
+		"logo":"images/xentronic-logo.jpg",
+        "position": "Medical Device Technician Intern",
+        "year": "2025",
+        "description": "Contributed actively within the manufacturing and quality assurance division to handle the comprehensive assembly process of industrial battery cells while executing technical troubleshooting, calibration, and repair on various medical device modules to ensure all products comply with strict operational safety standards."
+    }
+]
